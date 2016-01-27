@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/build/opencv_stuff/devel
+
+Name: opencv_stuff
+Description: Description of opencv_stuff
+Version: 0.0.0
+Cflags: -I/home/jaron/catkin_ws/build/opencv_stuff/devel/include
+Libs: -L/home/jaron/catkin_ws/build/opencv_stuff/devel/lib 
+Requires: 

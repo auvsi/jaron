@@ -1,0 +1,9 @@
+<launch>
+  
+  <!--opencv_stuff-->
+  <node name="opencv_node"  pkg="opencv_stuff"   type="opencv_stuff_node" />
+
+  <!--subscriber_stuff-->
+  <node name="subscriber_node"  pkg="subscriber_stuff"   type="subscriber_stuff_node" />
+
+</launch>

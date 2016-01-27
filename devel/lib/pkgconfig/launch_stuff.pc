@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/devel
+
+Name: launch_stuff
+Description: Description of launch_stuff
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jaron/catkin_ws/devel/lib 
+Requires: 

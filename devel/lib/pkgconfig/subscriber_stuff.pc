@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/devel
+
+Name: subscriber_stuff
+Description: Description of subscriber_stuff
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jaron/catkin_ws/devel/lib 
+Requires: 

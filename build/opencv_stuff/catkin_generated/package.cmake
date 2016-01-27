@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "opencv_stuff")
+set(opencv_stuff_MAINTAINER "jaron <jaron@todo.todo>")
+set(opencv_stuff_DEPRECATED "")
+set(opencv_stuff_VERSION "0.0.0")
+set(opencv_stuff_BUILD_DEPENDS "sensor_msgs" "roscpp" "message_generation")
+set(opencv_stuff_RUN_DEPENDS "sensor_msgs" "roscpp" "message_runtime")
+set(opencv_stuff_BUILDTOOL_DEPENDS "catkin")

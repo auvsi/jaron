@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "launch_stuff")
+set(launch_stuff_MAINTAINER "jaron <gary@todo.todo>")
+set(launch_stuff_DEPRECATED "")
+set(launch_stuff_VERSION "0.0.0")
+set(launch_stuff_BUILD_DEPENDS )
+set(launch_stuff_RUN_DEPENDS "opencv_stuff" "subscriber_stuff")
+set(launch_stuff_BUILDTOOL_DEPENDS "catkin")

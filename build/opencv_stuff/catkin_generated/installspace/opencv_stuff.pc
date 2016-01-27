@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/install
+
+Name: opencv_stuff
+Description: Description of opencv_stuff
+Version: 0.0.0
+Cflags: -I/home/jaron/catkin_ws/install/include
+Libs: -L/home/jaron/catkin_ws/install/lib 
+Requires: 
