@@ -1,6 +1,5 @@
 FILE(REMOVE_RECURSE
   "CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o"
-  "CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o"
   "/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node.pdb"
   "/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node"
 )

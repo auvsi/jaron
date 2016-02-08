@@ -318,6 +318,34 @@ opencv_stuff_node/fast:
 .PHONY : opencv_stuff_node/fast
 
 # Convenience name for target.
+opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/rule:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/rule
+.PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/rule
+
+# Convenience name for target.
+opencv_stuff_node2: opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/rule
+.PHONY : opencv_stuff_node2
+
+# fast build rule for target.
+opencv_stuff_node2/fast:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/build
+.PHONY : opencv_stuff_node2/fast
+
+# Convenience name for target.
+opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/rule:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/rule
+.PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/rule
+
+# Convenience name for target.
+opencv_stuff_node3: opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/rule
+.PHONY : opencv_stuff_node3
+
+# fast build rule for target.
+opencv_stuff_node3/fast:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/build
+.PHONY : opencv_stuff_node3/fast
+
+# Convenience name for target.
 opencv_stuff/CMakeFiles/roscpp_generate_messages_cpp.dir/rule:
 	cd /home/jaron/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 opencv_stuff/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
 .PHONY : opencv_stuff/CMakeFiles/roscpp_generate_messages_cpp.dir/rule
@@ -485,29 +513,29 @@ std_msgs_generate_messages_py/fast:
 	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/std_msgs_generate_messages_py.dir/build.make opencv_stuff/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
-src/myVideoWriter.o: src/myVideoWriter.cpp.o
-.PHONY : src/myVideoWriter.o
+src/generate_data.o: src/generate_data.cpp.o
+.PHONY : src/generate_data.o
 
 # target to build an object file
-src/myVideoWriter.cpp.o:
-	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o
-.PHONY : src/myVideoWriter.cpp.o
+src/generate_data.cpp.o:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/src/generate_data.cpp.o
+.PHONY : src/generate_data.cpp.o
 
-src/myVideoWriter.i: src/myVideoWriter.cpp.i
-.PHONY : src/myVideoWriter.i
+src/generate_data.i: src/generate_data.cpp.i
+.PHONY : src/generate_data.i
 
 # target to preprocess a source file
-src/myVideoWriter.cpp.i:
-	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.i
-.PHONY : src/myVideoWriter.cpp.i
+src/generate_data.cpp.i:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/src/generate_data.cpp.i
+.PHONY : src/generate_data.cpp.i
 
-src/myVideoWriter.s: src/myVideoWriter.cpp.s
-.PHONY : src/myVideoWriter.s
+src/generate_data.s: src/generate_data.cpp.s
+.PHONY : src/generate_data.s
 
 # target to generate assembly for a file
-src/myVideoWriter.cpp.s:
-	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.s
-.PHONY : src/myVideoWriter.cpp.s
+src/generate_data.cpp.s:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node2.dir/src/generate_data.cpp.s
+.PHONY : src/generate_data.cpp.s
 
 src/opencv_stuff_node.o: src/opencv_stuff_node.cpp.o
 .PHONY : src/opencv_stuff_node.o
@@ -533,6 +561,30 @@ src/opencv_stuff_node.cpp.s:
 	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.s
 .PHONY : src/opencv_stuff_node.cpp.s
 
+src/train_and_test.o: src/train_and_test.cpp.o
+.PHONY : src/train_and_test.o
+
+# target to build an object file
+src/train_and_test.cpp.o:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/src/train_and_test.cpp.o
+.PHONY : src/train_and_test.cpp.o
+
+src/train_and_test.i: src/train_and_test.cpp.i
+.PHONY : src/train_and_test.i
+
+# target to preprocess a source file
+src/train_and_test.cpp.i:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/src/train_and_test.cpp.i
+.PHONY : src/train_and_test.cpp.i
+
+src/train_and_test.s: src/train_and_test.cpp.s
+.PHONY : src/train_and_test.s
+
+# target to generate assembly for a file
+src/train_and_test.cpp.s:
+	cd /home/jaron/catkin_ws/build && $(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node3.dir/src/train_and_test.cpp.s
+.PHONY : src/train_and_test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -556,6 +608,8 @@ help:
 	@echo "... opencv_stuff_genlisp"
 	@echo "... opencv_stuff_genpy"
 	@echo "... opencv_stuff_node"
+	@echo "... opencv_stuff_node2"
+	@echo "... opencv_stuff_node3"
 	@echo "... rebuild_cache"
 	@echo "... roscpp_generate_messages_cpp"
 	@echo "... roscpp_generate_messages_lisp"
@@ -570,12 +624,15 @@ help:
 	@echo "... std_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_py"
 	@echo "... test"
-	@echo "... src/myVideoWriter.o"
-	@echo "... src/myVideoWriter.i"
-	@echo "... src/myVideoWriter.s"
+	@echo "... src/generate_data.o"
+	@echo "... src/generate_data.i"
+	@echo "... src/generate_data.s"
 	@echo "... src/opencv_stuff_node.o"
 	@echo "... src/opencv_stuff_node.i"
 	@echo "... src/opencv_stuff_node.s"
+	@echo "... src/train_and_test.o"
+	@echo "... src/train_and_test.i"
+	@echo "... src/train_and_test.s"
 .PHONY : help
 
 

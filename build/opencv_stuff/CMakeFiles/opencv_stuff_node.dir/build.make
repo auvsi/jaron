@@ -72,39 +72,14 @@ opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o.provid
 
 opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o.provides.build: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o
 
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/flags.make
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o: /home/jaron/catkin_ws/src/opencv_stuff/src/myVideoWriter.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/jaron/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_2)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o"
-	cd /home/jaron/catkin_ws/build/opencv_stuff && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o -c /home/jaron/catkin_ws/src/opencv_stuff/src/myVideoWriter.cpp
-
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.i"
-	cd /home/jaron/catkin_ws/build/opencv_stuff && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/jaron/catkin_ws/src/opencv_stuff/src/myVideoWriter.cpp > CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.i
-
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.s"
-	cd /home/jaron/catkin_ws/build/opencv_stuff && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/jaron/catkin_ws/src/opencv_stuff/src/myVideoWriter.cpp -o CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.s
-
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.requires:
-.PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.requires
-
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.provides: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.requires
-	$(MAKE) -f opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.provides.build
-.PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.provides
-
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.provides.build: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o
-
 # Object files for target opencv_stuff_node
 opencv_stuff_node_OBJECTS = \
-"CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o" \
-"CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o"
+"CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o"
 
 # External object files for target opencv_stuff_node
 opencv_stuff_node_EXTERNAL_OBJECTS =
 
 /home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o
-/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o
 /home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build.make
 /home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node: /opt/ros/indigo/lib/libcv_bridge.so
 /home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node: /usr/lib/x86_64-linux-gnu/libopencv_videostab.so.2.4.8
@@ -157,7 +132,6 @@ opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build: /home/jaron/catkin_ws/devel
 .PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node.dir/build
 
 opencv_stuff/CMakeFiles/opencv_stuff_node.dir/requires: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/opencv_stuff_node.cpp.o.requires
-opencv_stuff/CMakeFiles/opencv_stuff_node.dir/requires: opencv_stuff/CMakeFiles/opencv_stuff_node.dir/src/myVideoWriter.cpp.o.requires
 .PHONY : opencv_stuff/CMakeFiles/opencv_stuff_node.dir/requires
 
 opencv_stuff/CMakeFiles/opencv_stuff_node.dir/clean:

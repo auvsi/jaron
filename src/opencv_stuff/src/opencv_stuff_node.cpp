@@ -81,10 +81,13 @@ int main(int argc, char **argv)
 
     v1 >> frame2;
 
+    ros::Publisher servo_pub = n.advertise<opencv_stuff::MyImage>("servo", 1);
 
 
     for(;;)
     {
+
+
         v1 >> xal;
         v1 >> frame2;
 

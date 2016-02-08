@@ -131,19 +131,19 @@ include_directories(
 # add_dependencies(opencv_stuff ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 
 ## Declare a C++ executable
-add_executable(opencv_stuff_node src/opencv_stuff_node.cpp
-                        include/myVideoWriter.h
-			src/myVideoWriter.cpp)
+
+add_executable(opencv_stuff_node src/opencv_stuff_node)
+add_executable(opencv_stuff_node2 src/generate_data)
+add_executable(opencv_stuff_node3 src/train_and_test)
 
 ## Add cmake target dependencies of the executable
 ## same as for the library above
 # add_dependencies(opencv_stuff_node ${${PROJECT_NAME}_EXPORTED_TARGETS} ${catkin_EXPORTED_TARGETS})
 
 ## Specify libraries to link a library or executable target against
-target_link_libraries(opencv_stuff_node
-  ${catkin_LIBRARIES}
-)
-
+target_link_libraries(opencv_stuff_node ${catkin_LIBRARIES})
+target_link_libraries(opencv_stuff_node2 ${catkin_LIBRARIES})
+target_link_libraries(opencv_stuff_node3 ${catkin_LIBRARIES})
 #############
 ## Install ##
 #############

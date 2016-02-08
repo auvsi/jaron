@@ -8,5 +8,6 @@
 
 # modified environment variables
 export LD_LIBRARY_PATH="/home/jaron/catkin_ws/devel/lib/x86_64-linux-gnu:/opt/ros/indigo/lib/x86_64-linux-gnu:/home/jaron/catkin_ws/devel/lib:/opt/ros/indigo/lib"
+export PATH="/home/jaron/catkin_ws/devel/bin:/opt/ros/indigo/bin:/usr/lib/x86_64-linux-gnu/qt5/bin:/usr/bin:/usr/lib/x86_64-linux-gnu/qt5/bin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"
 export PKG_CONFIG_PATH="/home/jaron/catkin_ws/devel/lib/x86_64-linux-gnu/pkgconfig:/opt/ros/indigo/lib/x86_64-linux-gnu/pkgconfig:/home/jaron/catkin_ws/devel/lib/pkgconfig:/opt/ros/indigo/lib/pkgconfig"
 export PWD="/home/jaron/catkin_ws/build"

@@ -171,6 +171,94 @@
             <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="opencv_stuff_node2">
+         <Option output="/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/opencv_stuff" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;opencv_stuff&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/home/jaron/catkin_ws/src/opencv_stuff/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 opencv_stuff_node2" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opencv_stuff_node2/fast">
+         <Option output="/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node2" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/opencv_stuff" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;opencv_stuff&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/home/jaron/catkin_ws/src/opencv_stuff/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 opencv_stuff_node2/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opencv_stuff_node3">
+         <Option output="/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node3" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/opencv_stuff" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;opencv_stuff&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/home/jaron/catkin_ws/src/opencv_stuff/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 opencv_stuff_node3" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="opencv_stuff_node3/fast">
+         <Option output="/home/jaron/catkin_ws/devel/lib/opencv_stuff/opencv_stuff_node3" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/opencv_stuff" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;opencv_stuff&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/home/jaron/catkin_ws/src/opencv_stuff/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 opencv_stuff_node3/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="roscpp_generate_messages_cpp">
          <Option working_dir="/home/jaron/catkin_ws/build/opencv_stuff" />
          <Option type="4" />
@@ -292,11 +380,11 @@
          </MakeCommands>
       </Target>
       </Build>
-      <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/src/myVideoWriter.cpp">
+      <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/src/generate_data.cpp">
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/src/opencv_stuff_node.cpp">
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/include/myVideoWriter.h">
+      <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/src/train_and_test.cpp">
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/CMakeLists.txt">
           <Option virtualFolder="CMake Files\" />
