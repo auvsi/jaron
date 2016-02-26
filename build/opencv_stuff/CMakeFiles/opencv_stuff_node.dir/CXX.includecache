@@ -45,6 +45,12 @@ cv_bridge/cv_bridge.h
 -
 sensor_msgs/image_encodings.h
 -
+string
+-
+tesseract/baseapi.h
+-
+leptonica/allheaders.h
+-
 opencv2/video/tracking.hpp
 -
 

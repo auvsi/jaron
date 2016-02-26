@@ -60,6 +60,8 @@ subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.
 subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/ros/wall_timer.h
 subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/ros/wall_timer_options.h
 subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/rosconsole/macros_generated.h
+subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/sensor_msgs/CompressedImage.h
 subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/sensor_msgs/Image.h
+subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/sensor_msgs/image_encodings.h
 subscriber_stuff/CMakeFiles/subscriber_stuff_node.dir/src/subscriber_stuff_node.cpp.o: /opt/ros/indigo/include/std_msgs/Header.h
 

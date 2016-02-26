@@ -142,8 +142,10 @@ add_executable(opencv_stuff_node3 src/train_and_test)
 
 ## Specify libraries to link a library or executable target against
 target_link_libraries(opencv_stuff_node ${catkin_LIBRARIES})
+target_link_libraries(opencv_stuff_node lept tesseract)
 target_link_libraries(opencv_stuff_node2 ${catkin_LIBRARIES})
 target_link_libraries(opencv_stuff_node3 ${catkin_LIBRARIES})
+
 #############
 ## Install ##
 #############

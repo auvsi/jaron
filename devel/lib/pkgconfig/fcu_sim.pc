@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/devel
+
+Name: fcu_sim
+Description: Description of fcu_sim
+Version: 2.0.1
+Cflags: -I/usr/include/eigen3
+Libs: -L/home/jaron/catkin_ws/devel/lib 
+Requires: gazebo_msgs geometry_msgs roscpp sensor_msgs message_runtime

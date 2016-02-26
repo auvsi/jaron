@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "fcu_sim")
+set(fcu_sim_MAINTAINER "James Jackson <superjax08@gmail.com>")
+set(fcu_sim_DEPRECATED "")
+set(fcu_sim_VERSION "2.0.1")
+set(fcu_sim_BUILD_DEPENDS "gazebo_plugins" "gazebo_msgs" "geometry_msgs" "roscpp" "sensor_msgs" "cmake_modules" "message_generation" "std_msgs" "trajectory_msgs")
+set(fcu_sim_RUN_DEPENDS "gazebo_plugins" "gazebo_msgs" "geometry_msgs" "roscpp" "sensor_msgs" "message_runtime" "std_msgs" "trajectory_msgs")
+set(fcu_sim_BUILDTOOL_DEPENDS "catkin")

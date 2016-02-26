@@ -118,8 +118,11 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   INCLUDE("/home/jaron/catkin_ws/build/gtest/cmake_install.cmake")
   INCLUDE("/home/jaron/catkin_ws/build/launch_stuff/cmake_install.cmake")
+  INCLUDE("/home/jaron/catkin_ws/build/fcu_common/cmake_install.cmake")
   INCLUDE("/home/jaron/catkin_ws/build/opencv_stuff/cmake_install.cmake")
   INCLUDE("/home/jaron/catkin_ws/build/subscriber_stuff/cmake_install.cmake")
+  INCLUDE("/home/jaron/catkin_ws/build/fcu_sim/fcu_sim/cmake_install.cmake")
+  INCLUDE("/home/jaron/catkin_ws/build/fcu_sim/fcu_sim_plugins/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

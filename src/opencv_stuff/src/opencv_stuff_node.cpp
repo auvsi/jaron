@@ -6,6 +6,9 @@
 #include <opencv_stuff/MyImage.h>
 #include <cv_bridge/cv_bridge.h>
 #include <sensor_msgs/image_encodings.h>
+#include <string>
+#include <tesseract/baseapi.h>
+#include <leptonica/allheaders.h>
 
 
 #include <opencv2/video/tracking.hpp>
@@ -71,6 +74,32 @@ int main(int argc, char **argv)
 {
     ros::init(argc, argv, "opencv_stuff_node");
     ros::NodeHandle n;
+
+
+
+    char *outText;
+    
+    tesseract::TessBaseAPI *api = new tesseract::TessBaseAPI();
+    // Initialize tesseract-ocr with English, without specifying tessdata path
+    if (api->Init(NULL, "eng")) {
+        fprintf(stderr, "Could not initialize tesseract.\n");
+        exit(1);
+    }
+    
+    // Open input image with leptonica library
+    Pix *image = pixRead("test.jpg");
+    api->SetImage(image);
+    // Get OCR result
+    outText = api->GetUTF8Text();
+    printf("OCR output:\n%s", outText);
+
+    // Destroy used object and release memory
+    api->End();
+    delete [] outText;
+    pixDestroy(&image);
+
+    return 0;
+
 
     std::vector<cv::Point> features_prev, features_next;
 

@@ -1,0 +1,8 @@
+prefix=/home/jaron/catkin_ws/install
+
+Name: fcu_sim_plugins
+Description: Description of fcu_sim_plugins
+Version: 2.0.1
+Cflags: -I/home/jaron/catkin_ws/install/include -I/usr/include/eigen3
+Libs: -L/home/jaron/catkin_ws/install/lib -lfcu_sim_motor_model -lfcu_sim_controller_interface
+Requires: cv_bridge geometry_msgs fcu_sim rosbag roscpp fcu_sim std_srvs tf relative_nav relative_nav
