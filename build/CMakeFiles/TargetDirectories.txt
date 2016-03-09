@@ -52,6 +52,7 @@
 /home/jaron/catkin_ws/build/opencv_stuff/CMakeFiles/opencv_stuff_node.dir
 /home/jaron/catkin_ws/build/opencv_stuff/CMakeFiles/opencv_stuff_node2.dir
 /home/jaron/catkin_ws/build/opencv_stuff/CMakeFiles/opencv_stuff_node3.dir
+/home/jaron/catkin_ws/build/qr_reader/CMakeFiles/qr_reader_node.dir
 /home/jaron/catkin_ws/build/fcu_common/CMakeFiles/roscpp_generate_messages_cpp.dir
 /home/jaron/catkin_ws/build/fcu_common/CMakeFiles/roscpp_generate_messages_lisp.dir
 /home/jaron/catkin_ws/build/fcu_common/CMakeFiles/roscpp_generate_messages_py.dir

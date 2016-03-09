@@ -5,7 +5,7 @@
       <Option title="Project" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\nav_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\nav_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\;CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\image_transport\;CMake Files\..\..\..\..\opt\ros\indigo\share\image_transport\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\pluginlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\pluginlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\class_loader\;CMake Files\..\..\..\..\opt\ros\indigo\share\class_loader\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gazebo_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\gazebo_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\trajectory_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\trajectory_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_srvs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_srvs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\cmake\Modules\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag_storage\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslz4\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslz4\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\topic_tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\gazebo\;CMake Files\..\..\..\..\usr\share\gazebo\cmake\;CMake Files\..\..\..\..\usr\share\OpenCV\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\sdformat\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\launch_stuff\;CMake Files\..\build\launch_stuff\catkin_generated\;CMake Files\..\build\fcu_common\;CMake Files\..\build\fcu_common\catkin_generated\;CMake Files\..\build\fcu_common\cmake\;CMake Files\..\build\opencv_stuff\;CMake Files\..\build\opencv_stuff\catkin_generated\;CMake Files\..\build\opencv_stuff\cmake\;CMake Files\..\build\subscriber_stuff\;CMake Files\..\build\subscriber_stuff\catkin_generated\;CMake Files\..\build\fcu_sim\;CMake Files\..\build\fcu_sim\fcu_sim\;CMake Files\..\build\fcu_sim\fcu_sim\catkin_generated\;CMake Files\..\build\fcu_sim\fcu_sim_plugins\;CMake Files\..\build\fcu_sim\fcu_sim_plugins\catkin_generated\;CMake Files\..\devel\;CMake Files\..\devel\share\;CMake Files\..\devel\share\fcu_common\;CMake Files\..\devel\share\fcu_common\cmake\;CMake Files\..\devel\share\opencv_stuff\;CMake Files\..\devel\share\opencv_stuff\cmake\;CMake Files\..\devel\share\fcu_sim\;CMake Files\..\devel\share\fcu_sim\cmake\;CMake Files\launch_stuff\;CMake Files\fcu_common\;CMake Files\opencv_stuff\;CMake Files\subscriber_stuff\;CMake Files\fcu_sim\;CMake Files\fcu_sim\fcu_sim\;CMake Files\fcu_sim\fcu_sim_plugins\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\indigo\;CMake Files\..\..\..\..\opt\ros\indigo\share\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\..\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\;CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\nav_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\nav_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\;CMake Files\..\..\..\..\opt\ros\indigo\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\;CMake Files\..\..\..\..\opt\ros\indigo\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\;CMake Files\..\..\..\..\opt\ros\indigo\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\;CMake Files\..\..\..\..\opt\ros\indigo\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\;CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\;CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\image_transport\;CMake Files\..\..\..\..\opt\ros\indigo\share\image_transport\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\;CMake Files\..\..\..\..\opt\ros\indigo\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\pluginlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\pluginlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\class_loader\;CMake Files\..\..\..\..\opt\ros\indigo\share\class_loader\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\gazebo_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\gazebo_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\trajectory_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\trajectory_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_srvs\;CMake Files\..\..\..\..\opt\ros\indigo\share\std_srvs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\cmake_modules\cmake\Modules\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag_storage\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslz4\;CMake Files\..\..\..\..\opt\ros\indigo\share\roslz4\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\topic_tools\;CMake Files\..\..\..\..\opt\ros\indigo\share\topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\;CMake Files\..\..\..\..\opt\ros\indigo\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\indigo\share\tf2_py\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\share\;CMake Files\..\..\..\..\usr\share\gazebo\;CMake Files\..\..\..\..\usr\share\gazebo\cmake\;CMake Files\..\..\..\..\usr\share\OpenCV\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\sdformat\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\launch_stuff\;CMake Files\..\build\launch_stuff\catkin_generated\;CMake Files\..\build\fcu_common\;CMake Files\..\build\fcu_common\catkin_generated\;CMake Files\..\build\fcu_common\cmake\;CMake Files\..\build\opencv_stuff\;CMake Files\..\build\opencv_stuff\catkin_generated\;CMake Files\..\build\opencv_stuff\cmake\;CMake Files\..\build\qr_reader\;CMake Files\..\build\qr_reader\catkin_generated\;CMake Files\..\build\subscriber_stuff\;CMake Files\..\build\subscriber_stuff\catkin_generated\;CMake Files\..\build\fcu_sim\;CMake Files\..\build\fcu_sim\fcu_sim\;CMake Files\..\build\fcu_sim\fcu_sim\catkin_generated\;CMake Files\..\build\fcu_sim\fcu_sim_plugins\;CMake Files\..\build\fcu_sim\fcu_sim_plugins\catkin_generated\;CMake Files\..\devel\;CMake Files\..\devel\share\;CMake Files\..\devel\share\fcu_common\;CMake Files\..\devel\share\fcu_common\cmake\;CMake Files\..\devel\share\opencv_stuff\;CMake Files\..\devel\share\opencv_stuff\cmake\;CMake Files\..\devel\share\fcu_sim\;CMake Files\..\devel\share\fcu_sim\cmake\;CMake Files\launch_stuff\;CMake Files\fcu_common\;CMake Files\opencv_stuff\;CMake Files\qr_reader\;CMake Files\subscriber_stuff\;CMake Files\fcu_sim\;CMake Files\fcu_sim\fcu_sim\;CMake Files\fcu_sim\fcu_sim_plugins\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/jaron/catkin_ws/build" />
@@ -813,6 +813,48 @@
             <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/opencv_stuff/Makefile&quot;  VERBOSE=1 clean" />
          </MakeCommands>
       </Target>
+      <Target title="qr_reader_node">
+         <Option output="/home/jaron/catkin_ws/devel/lib/qr_reader/qr_reader_node" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/qr_reader" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;qr_reader&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 qr_reader_node" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="qr_reader_node/fast">
+         <Option output="/home/jaron/catkin_ws/devel/lib/qr_reader/qr_reader_node" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/home/jaron/catkin_ws/devel/lib/qr_reader" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DROS_BUILD_SHARED_LIBS=1" />
+            <Add option="-DROS_PACKAGE_NAME=&quot;qr_reader&quot;" />
+            <Add option="-DROSCONSOLE_BACKEND_LOG4CXX" />
+            <Add directory="/home/jaron/catkin_ws/devel/include" />
+            <Add directory="/opt/ros/indigo/include" />
+            <Add directory="/usr/include/opencv" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 qr_reader_node/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/home/jaron/catkin_ws/build/qr_reader/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
       <Target title="subscriber_stuff_node">
          <Option output="/home/jaron/catkin_ws/devel/lib/subscriber_stuff/subscriber_stuff_node" prefix_auto="0" extension_auto="0" />
          <Option working_dir="/home/jaron/catkin_ws/devel/lib/subscriber_stuff" />
@@ -1468,6 +1510,8 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/src/train_and_test.cpp">
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/qr_reader/src/qr_reader.cpp">
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/subscriber_stuff/src/subscriber_stuff_node.cpp">
       </Unit>
       <Unit filename="/usr/src/gtest/src/gtest-all.cc">
@@ -1584,6 +1628,18 @@
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/interrogate_setup_dot_py.py">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/catkinConfig-version.cmake">
@@ -1952,6 +2008,42 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\templates\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/order_packages.cmake.em">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
@@ -2027,23 +2119,17 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/pkg.pc.em">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\catkin\cmake\em\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
@@ -2052,30 +2138,6 @@
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
@@ -2111,6 +2173,24 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
       </Unit>
@@ -2128,6 +2208,60 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp/cmake/roscpp-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cpp_common/cmake/cpp_commonConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cpp_common\cmake\" />
@@ -2249,6 +2383,30 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/message_runtime/cmake/message_runtimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\message_runtime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_serialization\cmake\" />
       </Unit>
@@ -2368,6 +2526,30 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\roscpp_traits\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rostime/cmake/rostimeConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rostime\cmake\" />
@@ -2518,6 +2700,42 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsole-extras.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsole-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsoleConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosconsole/cmake/rosconsole-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosconsole\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rosgraph_msgs/cmake/rosgraph_msgsConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rosgraph_msgs\cmake\" />
@@ -2669,39 +2887,6 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
       </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-paths.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
-      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
       </Unit>
@@ -2746,6 +2931,69 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-paths.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/std_msgs/cmake/std_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\std_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/xmlrpcpp/cmake/xmlrpcppConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\xmlrpcpp\cmake\" />
@@ -2852,6 +3100,15 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
       </Unit>
@@ -2915,6 +3172,120 @@
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/sensor_msgs/cmake/sensor_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\sensor_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-paths.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
       </Unit>
@@ -2949,93 +3320,6 @@
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-extras.cmake">
-          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
-      </Unit>
-      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgs-msg-paths.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\geometry_msgs\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/geometry_msgs/cmake/geometry_msgsConfig-version.cmake">
@@ -3724,6 +4008,18 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/rospy/cmake/rospyConfig.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\rospy\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cv_bridge/cmake/cv_bridgeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cv_bridge/cmake/cv_bridgeConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../../../../opt/ros/indigo/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\indigo\share\cv_bridge\cmake\" />
@@ -4301,6 +4597,24 @@
       <Unit filename="/home/jaron/catkin_ws/src/../build/opencv_stuff/cmake/opencv_stuff-genmsg.cmake">
           <Option virtualFolder="CMake Files\..\build\opencv_stuff\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/package.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/ordered_paths.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../build/qr_reader/catkin_generated/package.cmake">
+          <Option virtualFolder="CMake Files\..\build\qr_reader\catkin_generated\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../build/subscriber_stuff/catkin_generated/ordered_paths.cmake">
           <Option virtualFolder="CMake Files\..\build\subscriber_stuff\catkin_generated\" />
       </Unit>
@@ -4391,7 +4705,25 @@
       <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuff-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
       </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuffConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuffConfig.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuff-msg-extras.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuff-msg-paths.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuffConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuffConfig.cmake">
+          <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuff-msg-extras.cmake">
           <Option virtualFolder="CMake Files\..\devel\share\opencv_stuff\cmake\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/../devel/share/opencv_stuff/cmake/opencv_stuffConfig-version.cmake">
@@ -4450,6 +4782,18 @@
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/opencv_stuff/package.xml">
           <Option virtualFolder="CMake Files\opencv_stuff\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/qr_reader/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\qr_reader\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/qr_reader/package.xml">
+          <Option virtualFolder="CMake Files\qr_reader\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/qr_reader/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\qr_reader\" />
+      </Unit>
+      <Unit filename="/home/jaron/catkin_ws/src/qr_reader/package.xml">
+          <Option virtualFolder="CMake Files\qr_reader\" />
       </Unit>
       <Unit filename="/home/jaron/catkin_ws/src/subscriber_stuff/CMakeLists.txt">
           <Option virtualFolder="CMake Files\subscriber_stuff\" />

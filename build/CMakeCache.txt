@@ -479,6 +479,12 @@ opencv_stuff_SOURCE_DIR:STATIC=/home/jaron/catkin_ws/src/opencv_stuff
 //The directory containing a CMake configuration file for pluginlib.
 pluginlib_DIR:PATH=/opt/ros/indigo/share/pluginlib/cmake
 
+//Value Computed by CMake
+qr_reader_BINARY_DIR:STATIC=/home/jaron/catkin_ws/build/qr_reader
+
+//Value Computed by CMake
+qr_reader_SOURCE_DIR:STATIC=/home/jaron/catkin_ws/src/qr_reader
+
 //The directory containing a CMake configuration file for rosbag.
 rosbag_DIR:PATH=/opt/ros/indigo/share/rosbag/cmake
 
@@ -742,7 +748,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=8
+CMAKE_NUMBER_OF_LOCAL_GENERATORS:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

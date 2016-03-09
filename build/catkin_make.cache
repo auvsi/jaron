@@ -1,2 +1,2 @@
-fcu_common:fcu_sim/fcu_sim:fcu_sim/fcu_sim_plugins:launch_stuff:opencv_stuff:subscriber_stuff
+fcu_common:fcu_sim/fcu_sim:fcu_sim/fcu_sim_plugins:launch_stuff:opencv_stuff:qr_reader:subscriber_stuff
 -DCATKIN_DEVEL_PREFIX=/home/jaron/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jaron/catkin_ws/install -G Unix Makefiles

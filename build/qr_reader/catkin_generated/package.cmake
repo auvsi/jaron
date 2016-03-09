@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "qr_reader")
+set(qr_reader_MAINTAINER "jaron <jaron@todo.todo>")
+set(qr_reader_DEPRECATED "")
+set(qr_reader_VERSION "0.0.0")
+set(qr_reader_BUILD_DEPENDS "opencv_stuff" "roscpp")
+set(qr_reader_RUN_DEPENDS "opencv_stuff" "roscpp")
+set(qr_reader_BUILDTOOL_DEPENDS "catkin")

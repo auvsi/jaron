@@ -865,6 +865,19 @@ opencv_stuff_node3/fast:
 .PHONY : opencv_stuff_node3/fast
 
 #=============================================================================
+# Target rules for targets named qr_reader_node
+
+# Build rule for target.
+qr_reader_node: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 qr_reader_node
+.PHONY : qr_reader_node
+
+# fast build rule for target.
+qr_reader_node/fast:
+	$(MAKE) -f qr_reader/CMakeFiles/qr_reader_node.dir/build.make qr_reader/CMakeFiles/qr_reader_node.dir/build
+.PHONY : qr_reader_node/fast
+
+#=============================================================================
 # Target rules for targets named subscriber_stuff_node
 
 # Build rule for target.
@@ -1309,6 +1322,7 @@ help:
 	@echo "... opencv_stuff_node"
 	@echo "... opencv_stuff_node2"
 	@echo "... opencv_stuff_node3"
+	@echo "... qr_reader_node"
 	@echo "... subscriber_stuff_node"
 	@echo "... gazebo_msgs_generate_messages_cpp"
 	@echo "... gazebo_msgs_generate_messages_lisp"
