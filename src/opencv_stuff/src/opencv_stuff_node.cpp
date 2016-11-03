@@ -75,6 +75,9 @@ int main(int argc, char **argv)
     ros::NodeHandle n;
 
 
+    /* 
+    
+    // ----- Tesseract OCR Recognition ----
 
     char *outText;
     
@@ -98,6 +101,14 @@ int main(int argc, char **argv)
     pixDestroy(&image);
 
     return 0;
+
+    */
+
+
+    /*
+    
+
+    // ----- Tracking program -----
 
 
     std::vector<cv::Point> features_prev, features_next;
@@ -139,20 +150,27 @@ int main(int argc, char **argv)
     }
 
 
-//    ros::Publisher image_pub = n.advertise<opencv_stuff::MyImage>("my_image", 1);
-
-//    cv::Mat image;
-//    image = cv::imread("/home/jaron/catkin_ws/src/opencv_stuff/f16.jpg", CV_LOAD_IMAGE_COLOR);
-
-
-//    opencv_stuff::MyImage msg;
-//    msg.imageId = 250;
+    */
 
 
 
-//    msg.image = image;
 
-/*
+    // ----- Publisher/Subscriber -----
+
+    ros::Publisher image_pub = n.advertise<opencv_stuff::MyImage>("my_image", 1);
+
+    cv::Mat image;
+    image = cv::imread("/home/jaron/catkin_ws/src/opencv_stuff/f16.jpg", CV_LOAD_IMAGE_COLOR);
+
+
+    opencv_stuff::MyImage msg;
+    msg.imageId = 250;
+
+
+
+    //msg.image = image;
+
+
     if(image.data){
 //        cv::imshow( "Display window", image );
 //        cv::waitKey(0);
@@ -163,7 +181,7 @@ int main(int argc, char **argv)
 
     cv::VideoCapture v1;
     cv::Mat frame1;
-    v1.open(1);
+    v1.open(0);
 
     for(;;)
     {
@@ -186,7 +204,7 @@ int main(int argc, char **argv)
 
 //    myVideoWriter temp = myVideoWriter();
 
-*/
+
 }
 
 
